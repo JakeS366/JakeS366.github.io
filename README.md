@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+JAKE SHIM
+1880 NW 94th AVE Plantation, FL, 33322
+954-778-9098
+ JSHIM0112@GMAIL.COM
 
-You can use the [editor on GitHub](https://github.com/JakeS366/JakeS366.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SUMMARY 
+ENTREPRENEUR PASSIONATE ABOUT BUILDING PRODUCTIVE RELATIONSHIPS WITH CLIENTS, PARTNERS AND TEAM MEMBERS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+WORK EXPERIENCE
+GRAPHIC BANNER LP, DELRAY BEACH, FL
+Crew, June 2015 – August 2015
+•	Examine finished surfaces of workpieces to verify conformance to specifications; then retouch any defective areas.
+•	Clean and maintain tools and equipment, using solvents, brushes, and rags.
+•	Clean surfaces of workpieces in preparation for coating, using cleaning fluids, solvents, brushes, scrapers, steam, sandpaper, or cloth.
+•	Cut out sections in surfaces of materials to be inlaid with decorative pieces, using patterns and knives or scissors.
+•	Position and glue decorative pieces in cutout sections of workpieces, following patterns.
 
-### Markdown
+MASTEC, MIAMI, FL
+Information Technology Asset Management Internship, May 2016 – July 2016
+•	Receive technologies stock and assign the stock to be worked on by other employees.
+•	Deliver stock within the company.
+•	Remove hard drives and memory from desktops and laptops.
+•	Image computers to suit the companies required software.
+•	Organize received stock in preparation for shipment. 
+Human Resources temporary employee, Nov 2016 – Jan 2017
+•	Organize company data (employee records).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+EDUCATION
+PLANTATION HIGH SCHOOL PLANTATION, FL
+Completed coursework towards High School Diploma, Jun 2012
+COLLEGE ACADEMY @ BCC, DAVIE, FL
+High School Diploma, Jun 2015
+BROWARD COLLEGE, DAVIE, FL
+Associate of Arts Degree, Jun 2015
+UNIVERSITY OF CENTRAL FLORIDA 
+Bachelor of Marketing in Business Administration, Fall 2019
+FLORIDA INTERNATIONAL UNIVERSITY
+Bachelor of Science in Information Technology, Spring 2019
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+ADDITIONAL SKILLS
+•	Graphic design		
+•	Microsoft Office
+•	Computer and technical literacy
+•	Adaptability
+•	Research 
+•	Problem-solving 
+ACCOMPLISHMENTS
+Creating beautiful signs and posters for hospitals, forts and buildings in Delray Beach, FL.
+Helping my internship supervisor, at Mastec, to gather and analyze significant information concerning IT asset management to make his job a little easier.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JakeS366/JakeS366.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
